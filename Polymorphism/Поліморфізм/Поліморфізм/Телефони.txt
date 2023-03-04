@@ -1,0 +1,8 @@
+Sony Xperia_Z 2220 Black 64
+Nokia Lumia 3600 Yellow 2
+Samsung Galaxy_S4 5000 White 256
+Oppo Reno_X5 5500 Blue 128
+Apple Iphone_Radio 23330 25 1
+Ukraine Truba 25000 200000 1
+Apple Ipone_XS_Max 45000 Gold 1000
+Price for all phones -> 109650;

@@ -1,0 +1,28 @@
+Кількість телефонів:
+5
+Опис та характеристика всіх телефонів:
+Galaxy_S4
+Samsung
+5000
+White
+256
+Lumia
+Nokia
+3600
+Yellow
+2
+Ipone_XS_Max
+Apple
+45000
+Gold
+1000
+Xperia_Z
+Sony
+2220
+Black
+64
+Reno_X5
+Oppo
+5500
+Blue
+128
