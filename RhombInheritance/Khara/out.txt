@@ -1,0 +1,21 @@
+Car name:i5
+Brand:BMW
+Engine volume:56.2
+Max speed:200
+Charge time:20
+Car name:i5
+Brand:BMW
+Engine volume:56.2
+Tank Volume:200
+Mileage of Different types:20
+Car name:Model X
+Brand:Tesla
+Engine volume:26.7
+Max speed:156
+Charge time:20
+Car name:RAV-4
+Brand:Toyota
+Engine volume:200
+Tank Volume:200
+
+ types :20
