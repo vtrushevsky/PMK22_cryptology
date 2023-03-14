@@ -1,0 +1,9 @@
+1500 Mitsubishi Pajero Wagon Mitsubishi
+1800 Ford Focus Ford
+2000 Toyota Land Cruiser 200 Toyota
+2200 Hyundai Sonata Hybrid Hyundai
+2500 Toyota Camry Hybrid Toyota
+2700 Honda Insight Honda
+3000 Audi e-tron Audi
+3500 Chevrolet Spark EV Chevrolet
+4000 Toyota C-HR Toyota
