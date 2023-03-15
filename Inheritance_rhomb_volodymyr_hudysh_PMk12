@@ -1,0 +1,207 @@
+#include<iostream>
+#include<fstream>
+#include<istream>
+using namespace std;
+
+class Car
+{
+protected:
+	double Engine;
+	string NameCar, ModelCar;
+public:
+	Car() : Engine(0), NameCar(""), ModelCar("") {}
+	Car(double _engine, string _namecar, string _modelcar) : Engine(_engine), NameCar(_namecar), ModelCar(_modelcar) {}
+	
+	virtual void Print(ostream &os) const
+	{
+		os << "Name of the car: " << this->NameCar << " Model: " << this->ModelCar << " Engine: " << this->Engine << endl;
+	}
+
+	bool comparison_model(const Car& a)
+	{
+		return this->ModelCar < a.ModelCar;
+	}
+
+	bool operator<(const Car& a)
+	{
+		return this->Engine < a.Engine;
+	}
+	
+	
+};
+
+class ElectricCar: virtual public Car
+{
+protected:
+	double TimeCharge;
+	double BatteryCapacity;
+public:
+	ElectricCar(): BatteryCapacity(0), TimeCharge(0) {}
+	ElectricCar(double _batterycapacity, double _timecharge, string _namecar, string _modelcar): BatteryCapacity(_batterycapacity), TimeCharge(_timecharge) {}
+
+	void Print(ostream& os)const override
+	{
+		os << "Time charging: " << this->TimeCharge << " BatteryCapacity: " << this->BatteryCapacity << endl;
+	}
+};
+
+
+class GazolineCar : virtual public Car
+{
+protected:
+	double TankVolume;
+
+public: 
+	GazolineCar(): TankVolume(0) {}
+	GazolineCar(double _engine, string _namecar, string _modelcar, double _tankvolume): TankVolume(_tankvolume)
+	{
+		this->Engine = _engine;
+		this->NameCar = _namecar;
+		this->ModelCar = _modelcar;
+		this->TankVolume = _tankvolume;
+	}
+
+	void Print(ostream& os)const override
+	{
+		os << "Tank capacity: " << this->TankVolume;
+	}
+
+};
+
+class Hybrid : public ElectricCar, public GazolineCar
+{
+protected:
+
+	double UsageOfKm;
+	string ModeOfDriving;
+
+public:
+	Hybrid(): UsageOfKm(0), ModeOfDriving("") {}
+	Hybrid(double _batterycapacity, double _timecharge,double _engine, string _namecar, string _modelcar,double _tankvolume, double _usageofkm, string _modeofdriving): UsageOfKm(_usageofkm), ModeOfDriving(_modeofdriving) 
+	{
+		this->BatteryCapacity = _batterycapacity;
+		this->Engine = _engine;
+		this->ModeOfDriving = _modeofdriving;
+		this->NameCar = _namecar;
+		this->ModelCar;
+		this->TankVolume = _tankvolume;
+		this->UsageOfKm = _usageofkm;
+	}
+
+	void Print(ostream& os)const override
+	{
+		os << "Number of car usage in miles: " << this->UsageOfKm << "Mode of driving car: " << this->ModeOfDriving << endl;
+	}
+
+};
+ostream& operator <<(ostream& os, const Car& a)
+{
+	a.Print(os);
+	return os;
+}
+
+istream& operator>>(istream& is, Car& car)
+{
+	double engine;
+	string name, model;
+	is >> engine >> name >> model;
+	car = Car(engine, name, model);
+	return is;
+}
+
+size_t Septum(Car arr[], size_t low, size_t high) {  //Функція розбиває заданий масив елементів, вибираючи опорний елемент і сортуючи решту елементів так, щоб елементи, менші за опорну, були ліворуч, а більші за опорну – праворуч. Він повертає індекс опорного елемента, який буде використано для рекурсивного сортування двох створених підмасивів.
+	Car PivotElement = arr[high];
+	size_t i = (low - 1);
+	for (size_t j = low; j <= high - 1; j++) {
+		if (arr[j] < PivotElement) {
+			i++;
+			Car temp = arr[i];
+			arr[i] = arr[j];
+			arr[j] = temp;
+		}
+	}
+	Car temp = arr[i + 1];
+	arr[i + 1] = arr[high];
+	arr[high] = temp;
+	return (i + 1);
+}
+void QuickSort(Car arr[], size_t low, size_t high) {  //функція сортує заданий масив елементів, багаторазово розбиваючи його навколо опорного елемента, а потім рекурсивно сортуючи отримані підмасиви, доки не буде відсортовано весь масив.
+	if (low < high) {
+		size_t pi = Septum(arr, low, high);
+		QuickSort(arr, low, pi - 1);
+		QuickSort(arr, pi + 1, high);
+	}
+}
+
+size_t Septum1(Car arr[], size_t low, size_t high) {
+	Car PivotElement = arr[high];
+	size_t i = (low - 1);
+	for (size_t j = low; j <= high - 1; j++) {
+		if (arr[j].comparison_model(PivotElement)) {
+			i++;
+			Car temp = arr[i];
+			arr[i] = arr[j];
+			arr[j] = temp;
+		}
+	}
+	Car temp = arr[i + 1];
+	arr[i + 1] = arr[high];
+	arr[high] = temp;
+	return (i + 1);
+}
+
+void QuickSort1(Car arr[], size_t low, size_t high) {
+	if (low < high) {
+		size_t pi = Septum1(arr, low, high);
+		QuickSort1(arr, low, pi - 1);
+		QuickSort1(arr, pi + 1, high);
+	}
+}
+
+
+int main()
+{
+	GazolineCar a(6.3, "Mercedes Benz", "s63 amg", 60);
+	GazolineCar b(4.4, "BMW", "M5 Competition", 70);
+	GazolineCar c(4.0, "Audi", "RS6", 70);
+	ElectricCar a1(350, 24, "Tesla", "Model s");
+	ElectricCar b1(500, 32, "Tesla", "Model x");
+	ElectricCar c1(350, 23, "Tesla", "Roadster");
+	Hybrid a2(200, 15, 1.6, "Toyota", "Rav4", 50, 500, "1: full electric; 2: only cas; 3: cas with electic; 4 eco");
+	Hybrid b2(250, 17, 2.0, "Honda", "Pilot", 60, 500, "1: full electric; 2: only cas; 3: cas with electic;");
+
+	Car** car = new Car*[8];
+	car[0] = &a;
+	car[1] = &b;
+	car[2] = &c;
+	car[3] = &a1;
+	car[4] = &b1;
+	car[5] = &c1;
+	car[6] = &a2;
+	car[7] = &b2;
+	
+	ifstream f("car.txt");
+	Car* arr = new Car[8];
+	size_t i = 0;
+		while (!f.eof() && i < 8)
+		{
+			f >> arr[i];
+			i++;
+		}
+		f.close();
+
+		QuickSort(*car, 0, 8);
+        for (size_t i = 0; i < 8; i++)
+		{
+			cout << *car[i] << endl;
+		}
+		QuickSort1(*car, 0, 8);
+
+		for (size_t i = 0; i < 8; i++)
+		{
+			cout << *car[i] << endl;
+		}
+			
+
+		return 0;
+}
