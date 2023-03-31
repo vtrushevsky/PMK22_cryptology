@@ -1,0 +1,8 @@
+John,Smith,Davidovich,A1,4,Math,80,Johnson,Physics,75,Kim,Chemistry,90,Johnson
+Alice,Jones,Marie,A2,3,Math,85,Johnson,Physics,90,Johnson,Chemistry,80,Kim
+Bob,Johnson,Edward,A1,2,Math,90,Johnson,Physics,85,Johnson
+Emily,Wang,Xiaoyun,A2,2,Math,95,Kim,Physics,80,Kim
+Daniel,Lee,Sung,A1,2,Math,70,Johnson,Physics,75,Johnson
+Olivia,Chen,Yan,A1,3,Math,90,Johnson,Physics,85,Johnson,Chemistry,80,Kim
+Sophia,Zhang,Yun,A2,2,Math,85,Kim,Physics,80,Kim
+Michael,Wu,Hua,A1,1,Math,95,Johnson
