@@ -1,0 +1,3 @@
+Radiotelephone1 CompanyA 150.50 2.3 0
+Radiotelephone2 CompanyB 100.00 1.5 1
+Radiotelephone3 CompanyC 200.00 3.0 1

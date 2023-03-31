@@ -1,0 +1,3 @@
+MobilePhone1 CompanyA 350.00 Black 64
+MobilePhone2 CompanyB 500.00 White 128
+MobilePhone3 CompanyC 250.00 Blue 32
