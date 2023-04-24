@@ -1,0 +1,16 @@
+Triangle name: Triangle_3
+Triangle area: 2
+Triangle perimeter: 7
+
+Triangle name: Triangle_4
+Triangle area: 5
+Triangle perimeter: 11
+
+Triangle name: Triangle_2
+Triangle area: 6
+Triangle perimeter: 9
+
+Triangle name: Triangle_1
+Triangle area: 21
+Triangle perimeter: 21
+
