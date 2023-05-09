@@ -1,0 +1,4 @@
+Street,Number of Owners,Total Cost of Phones
+123 Main St,1,2099.97
+456 Elm St,1,2099.97
+789 Oak St,1,2099.97

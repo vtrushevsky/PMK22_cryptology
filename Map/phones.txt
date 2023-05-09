@@ -1,0 +1,4 @@
+Alice Green,123 Main St,555-1357,Apple,iPhone SE,399.99
+Bob Brown,789 Oak St,555-2468,Google,Pixel 5,799.99
+John Smith,123 Main St,555-1234,Apple,iPhone 12,999.99
+Mary Johnson,456 Elm St,555-5678,Samsung,Galaxy S21,899.99
