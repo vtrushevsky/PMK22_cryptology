@@ -1,0 +1,3 @@
+Side 1: 3, Side 2: 4, Side 3: 5, Area: 6, Perimeter: 12
+Side 1: 7, Side 2: 7, Side 3: 7, Area: 21.2176, Perimeter: 21
+Side 1: 5, Side 2: 12, Side 3: 13, Area: 30, Perimeter: 30
