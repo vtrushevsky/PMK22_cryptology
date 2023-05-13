@@ -1,2 +1,0 @@
-Street		Owner Count	Total Value
-456 Elm St		1		$799.99
