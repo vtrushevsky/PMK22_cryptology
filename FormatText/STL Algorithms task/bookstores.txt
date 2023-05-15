@@ -1,0 +1,25 @@
+Bookstore A
+3
+Title 4
+Author 4
+10.0
+Title 2
+Author 2
+15.0
+Title 3
+Author 3
+20.0
+Bookstore B
+4
+Title 4
+Author 4
+12.0
+Title 5
+Author 5
+18.0
+Title 6
+Author 6
+25.0
+Title 7
+Author 7
+30.0
