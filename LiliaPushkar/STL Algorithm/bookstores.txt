@@ -1,0 +1,5 @@
+Bookstore  "The Great Gatsby" F. Scott Fitzgerald  350
+Bookstore  "To Kill a Mockingbird" Harper Lee  200
+Bookclub 1984 George Orwell  220
+Bookclub1  "The Catcher in the Rye" J.D. Salinger 180
+Bookclub1  "Animal Farm" George Orwell 150
