@@ -1,0 +1,6 @@
+triangle_1
+3 6 7 
+triangle_2
+5 4 8
+trinagle_3
+3 9 7
