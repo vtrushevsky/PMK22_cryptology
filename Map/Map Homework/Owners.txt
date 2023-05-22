@@ -1,0 +1,4 @@
+Street, Count of Owners, Total Cost of Phones
+346 Ewn,1,3350.47
+765 Alk,2,3350.47
+863 Nrp,1,3350.47
