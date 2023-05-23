@@ -1,0 +1,5 @@
+Bookstore_1  "Audacious Generosity" Steven King  250
+Bookstore_1  "The Aeneid" Ivan Kotlyarevsky  270
+Bookstore_2  "Voroshilovgrad" Serhiy Zhadan  230
+Bookstore_3  "Numerous Catherines" John Green 200
+Bookstore_3  "Nutshell" Ian McEwan 160
