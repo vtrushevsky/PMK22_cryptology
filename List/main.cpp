@@ -1,9 +1,8 @@
 #include <iostream>
 #include <fstream>
 #include <exception>
-#include <utility> // for move
-#include <cmath> // for sqrt()
-#include <Windows.h>
+#include <utility> 
+#include <cmath> 
 #include <algorithm>
 #include<string>
 #include "header.h"
@@ -41,7 +40,7 @@ public:
     {
         double s = (side[0] + side[1] + side[2]) / 2;
         area = sqrt(s * (s - side[0]) * (s - side[1]) * (s - side[2]));
-        area = round(area * 10.0) / 10.0;  //rounding to tenths
+        area = round(area * 10.0) / 10.0;
         return area;
     }
     double CalculatePerimetr()
@@ -62,8 +61,6 @@ public:
 
 int main()
 {
-    SetConsoleOutputCP(1251);
-    SetConsoleCP(1251);
     int count = 0;
     ifstream infile("triangle.txt");
     ofstream outfile("sortedTriangle.txt");
