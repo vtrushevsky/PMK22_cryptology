@@ -62,11 +62,11 @@ public:
 int main()
 {
     int count = 0;
-    ifstream infile("triangle.txt");
-    ofstream outfile("sortedTriangle.txt");
+    ifstream ifile("triangle.txt");
+    ofstream ofile("sortedTriangle.txt");
     try
     {
-        ifstream infile("triangle.txt");
+        ifstream ifile("triangle.txt");
         if (!"triangle.txt")
         {
             throw MyException("Failed to open file.");
@@ -86,9 +86,9 @@ int main()
     Triangle* tri = new Triangle[numberTrinagles]();
 
     DoubleLinkedList<Triangle> triangles;
-    while (!infile.eof()) {
+    while (!ifile.eof()) {
 
-        infile >> tri[count].name >> tri[count].side[0] >> tri[count].side[1] >> tri[count].side[2];
+        ifile >> tri[count].name >> tri[count].side[0] >> tri[count].side[1] >> tri[count].side[2];
         count++;
     }
 
@@ -109,13 +109,13 @@ int main()
         tri[i].area = tri[i].CalculateArea();
         if (tri[i].perimetr >= MinPerimetr && tri[i].perimetr <= MaxPerimetr)
         {
-            outfile << tri[i].name << " side 1: " << tri[i].side[0] << ", side 2: " << tri[i].side[1] << ", side 3: " << tri[i].side[2] << ", perimetr: " << tri[i].perimetr << ", area(rounded to the nearest tenth): " << tri[i].area << endl;
+            ofile << tri[i].name << " side 1: " << tri[i].side[0] << ", side 2: " << tri[i].side[1] << ", side 3: " << tri[i].side[2] << ", perimetr: " << tri[i].perimetr << ", area(rounded to the nearest tenth): " << tri[i].area << endl;
 
         }
     }
 
-    outfile.close();
-    infile.close();
+    ofile.close();
+    ifile.close();
 
     return 0;
 }
