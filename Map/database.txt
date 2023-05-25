@@ -1,0 +1,2 @@
+John Doe, 123 Main Street, iPhone X, ABC123, 999.99
+Jane Smith, 456 Elm Street, Samsung Galaxy S10, XYZ789, 799.99

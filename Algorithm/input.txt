@@ -1,0 +1,5 @@
+Kiev bookstore The_Great_Gatsby F.Scott_Fitzgerald 250 UAH
+Kiev bookstore Crime_and_Punishment Fyodor_Dostoevsky 180 UAH
+Kiev bookstore War_and_Peace Leo_Tolstoy 320 UAH
+Kiev bookstore2 The_Hobbit J.R.R.Tolkien 150 UAH
+Kiev bookstore2 The_Catch-22 Joseph_Heller 200 UAH
