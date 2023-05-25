@@ -1,0 +1,4 @@
+Amelia Brown,765 Alk St,555-28375,Samsung,599.99
+George Wilson,346 Ewn St,555-34920,Apple,999.99
+Olivia Smith,863 Nrp St,555-39482,Apple,950.5
+Samuel Adamson,765 Alk St,555-49833,Huawei,799.99
