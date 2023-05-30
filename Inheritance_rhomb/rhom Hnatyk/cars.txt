@@ -1,0 +1,3 @@
+Car: ElectricCar1, Brand: BrandB, Engine Volume: 0, Max Distance: 200, Charging Time: 4
+Car: HybridCar1, Brand: BrandC, Engine Volume: 1.8, Tank Volume: 40, Max Distance: 150, Charging Time: 3
+Car: GasolineCar1, Brand: BrandA, Engine Volume: 2, Tank Volume: 50
