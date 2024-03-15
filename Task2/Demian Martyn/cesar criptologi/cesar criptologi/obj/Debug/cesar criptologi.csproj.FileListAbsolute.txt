@@ -1,0 +1,11 @@
+C:\Users\пк\Desktop\ЗНО\cesar criptologi\cesar criptologi\bin\Debug\cesar criptologi.exe.config
+C:\Users\пк\Desktop\ЗНО\cesar criptologi\cesar criptologi\bin\Debug\cesar criptologi.exe
+C:\Users\пк\Desktop\ЗНО\cesar criptologi\cesar criptologi\bin\Debug\cesar criptologi.pdb
+C:\Users\пк\Desktop\ЗНО\cesar criptologi\cesar criptologi\obj\Debug\cesar criptologi.csproj.AssemblyReference.cache
+C:\Users\пк\Desktop\ЗНО\cesar criptologi\cesar criptologi\obj\Debug\cesar criptologi.csproj.SuggestedBindingRedirects.cache
+C:\Users\пк\Desktop\ЗНО\cesar criptologi\cesar criptologi\obj\Debug\cesar_criptologi.Form1.resources
+C:\Users\пк\Desktop\ЗНО\cesar criptologi\cesar criptologi\obj\Debug\cesar_criptologi.Properties.Resources.resources
+C:\Users\пк\Desktop\ЗНО\cesar criptologi\cesar criptologi\obj\Debug\cesar criptologi.csproj.GenerateResource.cache
+C:\Users\пк\Desktop\ЗНО\cesar criptologi\cesar criptologi\obj\Debug\cesar criptologi.csproj.CoreCompileInputs.cache
+C:\Users\пк\Desktop\ЗНО\cesar criptologi\cesar criptologi\obj\Debug\cesar criptologi.exe
+C:\Users\пк\Desktop\ЗНО\cesar criptologi\cesar criptologi\obj\Debug\cesar criptologi.pdb
