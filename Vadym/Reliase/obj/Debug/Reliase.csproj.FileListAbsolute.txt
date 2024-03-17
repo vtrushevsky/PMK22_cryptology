@@ -1,0 +1,15 @@
+D:\MyProgects\shifer\shiferrr\Reliase\bin\Debug\Reliase.exe.config
+D:\MyProgects\shifer\shiferrr\Reliase\bin\Debug\Reliase.exe
+D:\MyProgects\shifer\shiferrr\Reliase\bin\Debug\Reliase.pdb
+D:\MyProgects\shifer\shiferrr\Reliase\obj\Debug\Reliase.csproj.AssemblyReference.cache
+D:\MyProgects\shifer\shiferrr\Reliase\obj\Debug\Reliase.Form1.resources
+D:\MyProgects\shifer\shiferrr\Reliase\obj\Debug\Reliase.Properties.Resources.resources
+D:\MyProgects\shifer\shiferrr\Reliase\obj\Debug\Reliase.csproj.GenerateResource.cache
+D:\MyProgects\shifer\shiferrr\Reliase\obj\Debug\Reliase.csproj.CoreCompileInputs.cache
+D:\MyProgects\shifer\shiferrr\Reliase\obj\Debug\Reliase.exe
+D:\MyProgects\shifer\shiferrr\Reliase\obj\Debug\Reliase.pdb
+D:\MyProgects\shifer\shiferrr\Reliase\obj\Debug\Reliase.Form2.resources
+D:\MyProgects\shifer\shiferrr\Reliase\obj\Debug\Reliase.Form3.resources
+D:\MyProgects\shifer\shiferrr\Reliase\obj\Debug\Reliase.Form4.resources
+D:\MyProgects\shifer\shiferrr\Reliase\obj\Debug\Reliase.Form5.resources
+D:\MyProgects\shifer\shiferrr\Reliase\obj\Debug\Reliase.Form7.resources

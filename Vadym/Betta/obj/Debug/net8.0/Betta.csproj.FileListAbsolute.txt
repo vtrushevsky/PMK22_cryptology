@@ -1,0 +1,14 @@
+D:\MyProgects\shifer\shiferrr\Betta\bin\Debug\net8.0\Betta.exe
+D:\MyProgects\shifer\shiferrr\Betta\bin\Debug\net8.0\Betta.deps.json
+D:\MyProgects\shifer\shiferrr\Betta\bin\Debug\net8.0\Betta.runtimeconfig.json
+D:\MyProgects\shifer\shiferrr\Betta\bin\Debug\net8.0\Betta.dll
+D:\MyProgects\shifer\shiferrr\Betta\bin\Debug\net8.0\Betta.pdb
+D:\MyProgects\shifer\shiferrr\Betta\obj\Debug\net8.0\Betta.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyProgects\shifer\shiferrr\Betta\obj\Debug\net8.0\Betta.AssemblyInfoInputs.cache
+D:\MyProgects\shifer\shiferrr\Betta\obj\Debug\net8.0\Betta.AssemblyInfo.cs
+D:\MyProgects\shifer\shiferrr\Betta\obj\Debug\net8.0\Betta.csproj.CoreCompileInputs.cache
+D:\MyProgects\shifer\shiferrr\Betta\obj\Debug\net8.0\Betta.dll
+D:\MyProgects\shifer\shiferrr\Betta\obj\Debug\net8.0\refint\Betta.dll
+D:\MyProgects\shifer\shiferrr\Betta\obj\Debug\net8.0\Betta.pdb
+D:\MyProgects\shifer\shiferrr\Betta\obj\Debug\net8.0\Betta.genruntimeconfig.cache
+D:\MyProgects\shifer\shiferrr\Betta\obj\Debug\net8.0\ref\Betta.dll
