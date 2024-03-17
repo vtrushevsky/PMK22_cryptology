@@ -1,0 +1,16 @@
+D:\MyProgects\shifer\shiferrr\Alpha\bin\Debug\net8.0-windows\Alpha.exe
+D:\MyProgects\shifer\shiferrr\Alpha\bin\Debug\net8.0-windows\Alpha.deps.json
+D:\MyProgects\shifer\shiferrr\Alpha\bin\Debug\net8.0-windows\Alpha.runtimeconfig.json
+D:\MyProgects\shifer\shiferrr\Alpha\bin\Debug\net8.0-windows\Alpha.dll
+D:\MyProgects\shifer\shiferrr\Alpha\bin\Debug\net8.0-windows\Alpha.pdb
+D:\MyProgects\shifer\shiferrr\Alpha\obj\Debug\net8.0-windows\Alpha.Form1.resources
+D:\MyProgects\shifer\shiferrr\Alpha\obj\Debug\net8.0-windows\Alpha.csproj.GenerateResource.cache
+D:\MyProgects\shifer\shiferrr\Alpha\obj\Debug\net8.0-windows\Alpha.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyProgects\shifer\shiferrr\Alpha\obj\Debug\net8.0-windows\Alpha.AssemblyInfoInputs.cache
+D:\MyProgects\shifer\shiferrr\Alpha\obj\Debug\net8.0-windows\Alpha.AssemblyInfo.cs
+D:\MyProgects\shifer\shiferrr\Alpha\obj\Debug\net8.0-windows\Alpha.csproj.CoreCompileInputs.cache
+D:\MyProgects\shifer\shiferrr\Alpha\obj\Debug\net8.0-windows\Alpha.dll
+D:\MyProgects\shifer\shiferrr\Alpha\obj\Debug\net8.0-windows\refint\Alpha.dll
+D:\MyProgects\shifer\shiferrr\Alpha\obj\Debug\net8.0-windows\Alpha.pdb
+D:\MyProgects\shifer\shiferrr\Alpha\obj\Debug\net8.0-windows\Alpha.genruntimeconfig.cache
+D:\MyProgects\shifer\shiferrr\Alpha\obj\Debug\net8.0-windows\ref\Alpha.dll
