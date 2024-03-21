@@ -1,0 +1,22 @@
+D:\Visual studio\проекти\cryptology\cryptology\input.txt
+D:\Visual studio\проекти\cryptology\cryptology\encrypted.txt
+C:\Users\WellDone\Downloads\Telegram Desktop\non_ecryptr5mb.txt
+
+
+  for (int i = 0; i < encryptedText.Length; i += chunkSize)
+                {
+                    int length = Math.Min(chunkSize, encryptedText.Length - i);
+                    string chunk = encryptedText.Substring(i, length);
+                    chunks.Add(chunk);
+                }
+
+                string[] chunksArrayD = chunks.ToArray();
+
+                Parallel.ForEach(chunksArrayD, (chunk, state, index) =>
+                {
+                    chunksArrayD[index] = Decryption(encryptedText, key);
+                });
+
+                string decryptedText = string.Join("", chunksArray);
+
+                //await WriteTextToFileAsync("D:\\Visual studio\\проекти\\cryptology\\cryptology\\decryption.txt", decryptedText);
