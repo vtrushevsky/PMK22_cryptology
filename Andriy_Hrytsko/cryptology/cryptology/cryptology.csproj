@@ -177,6 +177,7 @@
     <Compile Include="cesar.Designer.cs">
       <DependentUpon>cesar.cs</DependentUpon>
     </Compile>
+    <Compile Include="cipher.cs" />
     <Compile Include="mainMenu.cs">
       <SubType>Form</SubType>
     </Compile>
