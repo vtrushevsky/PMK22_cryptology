@@ -14,7 +14,7 @@ string inputText = File.ReadAllText(inputFilePath);
 string encryptedText = EncryptWithVigenereCipher(inputText, alphabet, key);
 File.WriteAllText(outputFilePath, encryptedText);
 
-Console.WriteLine("Encryption completed. Check the output file.");
+Console.WriteLine("Encryption completed");
 
 int detectedKeyLength = DetectKeyLengthWithKasiskiExamination(encryptedText, alphabet);
 Console.WriteLine($"Detected key length: {detectedKeyLength}");
