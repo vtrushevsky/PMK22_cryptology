@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Affine")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+944c76873d2c1486e6e879e9f5210c0e7fdfb31e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5caeef317b5299245a2c3108d4afe24034d791f7")]
 [assembly: System.Reflection.AssemblyProductAttribute("Affine")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Affine")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

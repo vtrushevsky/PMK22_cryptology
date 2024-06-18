@@ -9,7 +9,7 @@ BigInteger[] key = GenerateRandomKey(keySize);
 // BigInteger[] key = { 3, 7, 11, 19 };
 
 string inputText = File.ReadAllText(inputFilePath);
-string encryptedText = EncryptWithHigherOrderAffineCipher(inputText, key, 26);
+string encryptedText = Encrypt(inputText, key, 26);
 File.WriteAllText(outputFilePath, encryptedText);
 
 Console.WriteLine("Encryption completed");
@@ -23,7 +23,7 @@ BigInteger[] importedKey = ImportKey(keyFilePath);
 
 Console.ReadLine();
 
-static string EncryptWithHigherOrderAffineCipher(string plainText, BigInteger[] key, int alphabetSize)
+static string Encrypt(string plainText, BigInteger[] key, int alphabetSize)
 {
     int keySize = key.Length;
     int blockSize = alphabetSize;

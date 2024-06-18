@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\cryptology\\PMK22_cryptology\\WinFormsApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{986D8D98-7057-4FEC-BB21-6EAB311FA97C}|WinFormsApp1.csproj|d:\\cryptology\\pmk22_cryptology\\winformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{986D8D98-7057-4FEC-BB21-6EAB311FA97C}|WinFormsApp1.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{986D8D98-7057-4FEC-BB21-6EAB311FA97C}|WinFormsApp1.csproj|d:\\cryptology\\pmk22_cryptology\\winformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{986D8D98-7057-4FEC-BB21-6EAB311FA97C}|WinFormsApp1.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{986D8D98-7057-4FEC-BB21-6EAB311FA97C}|WinFormsApp1.csproj|d:\\cryptology\\pmk22_cryptology\\winformsapp1\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{986D8D98-7057-4FEC-BB21-6EAB311FA97C}|WinFormsApp1.csproj|solutionrelative:form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{986D8D98-7057-4FEC-BB21-6EAB311FA97C}|WinFormsApp1.csproj|d:\\cryptology\\pmk22_cryptology\\winformsapp1\\vigenere.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{986D8D98-7057-4FEC-BB21-6EAB311FA97C}|WinFormsApp1.csproj|solutionrelative:vigenere.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{986D8D98-7057-4FEC-BB21-6EAB311FA97C}|WinFormsApp1.csproj|d:\\cryptology\\pmk22_cryptology\\winformsapp1\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{986D8D98-7057-4FEC-BB21-6EAB311FA97C}|WinFormsApp1.csproj|solutionrelative:form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Vigenere.cs",
+              "DocumentMoniker": "D:\\cryptology\\PMK22_cryptology\\WinFormsApp1\\Vigenere.cs",
+              "RelativeDocumentMoniker": "Vigenere.cs",
+              "ToolTip": "D:\\cryptology\\PMK22_cryptology\\WinFormsApp1\\Vigenere.cs",
+              "RelativeToolTip": "Vigenere.cs",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAAAGEAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T12:53:58.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form4.cs",
+              "DocumentMoniker": "D:\\cryptology\\PMK22_cryptology\\WinFormsApp1\\Form4.cs",
+              "RelativeDocumentMoniker": "Form4.cs",
+              "ToolTip": "D:\\cryptology\\PMK22_cryptology\\WinFormsApp1\\Form4.cs",
+              "RelativeToolTip": "Form4.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAABwAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T12:53:39.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form4.cs [Design]",
+              "DocumentMoniker": "D:\\cryptology\\PMK22_cryptology\\WinFormsApp1\\Form4.cs",
+              "RelativeDocumentMoniker": "Form4.cs",
+              "ToolTip": "D:\\cryptology\\PMK22_cryptology\\WinFormsApp1\\Form4.cs [Design]",
+              "RelativeToolTip": "Form4.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T12:53:00.408Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\cryptology\\PMK22_cryptology\\WinFormsApp1\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\cryptology\\PMK22_cryptology\\WinFormsApp1\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T12:49:35.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\cryptology\\PMK22_cryptology\\WinFormsApp1\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\cryptology\\PMK22_cryptology\\WinFormsApp1\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T12:48:17.874Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
