@@ -1,0 +1,22 @@
+D:\Visual studio\проекти\cryptology\cryptologyTests1\obj\Debug\cryptologyTests1.csproj.AssemblyReference.cache
+D:\Visual studio\проекти\cryptology\cryptologyTests1\obj\Debug\cryptologyTests1.csproj.CoreCompileInputs.cache
+D:\Visual studio\проекти\cryptology\cryptologyTests1\bin\Debug\cryptologyTests1.dll
+D:\Visual studio\проекти\cryptology\cryptologyTests1\bin\Debug\cryptologyTests1.pdb
+D:\Visual studio\проекти\cryptology\cryptologyTests1\bin\Debug\cryptology.exe
+D:\Visual studio\проекти\cryptology\cryptologyTests1\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Visual studio\проекти\cryptology\cryptologyTests1\bin\Debug\cryptology.pdb
+D:\Visual studio\проекти\cryptology\cryptologyTests1\bin\Debug\cryptology.exe.config
+D:\Visual studio\проекти\cryptology\cryptologyTests1\obj\Debug\cryptolo.B46E1D05.Up2Date
+D:\Visual studio\проекти\cryptology\cryptologyTests1\obj\Debug\cryptologyTests1.dll
+D:\Visual studio\проекти\cryptology\cryptologyTests1\obj\Debug\cryptologyTests1.pdb
+C:\Users\WellDone\Source\Repos\PMK22_cryptology\Andriy_Hrytsko\cryptology\cryptologyTests1\obj\Debug\cryptologyTests1.csproj.AssemblyReference.cache
+C:\Users\WellDone\Source\Repos\PMK22_cryptology\Andriy_Hrytsko\cryptology\cryptologyTests1\obj\Debug\cryptologyTests1.csproj.CoreCompileInputs.cache
+C:\Users\WellDone\Source\Repos\PMK22_cryptology\Andriy_Hrytsko\cryptology\cryptologyTests1\obj\Debug\cryptologyTests1.dll
+C:\Users\WellDone\Source\Repos\PMK22_cryptology\Andriy_Hrytsko\cryptology\cryptologyTests1\obj\Debug\cryptologyTests1.pdb
+C:\Users\WellDone\Source\Repos\PMK22_cryptology\Andriy_Hrytsko\cryptology\cryptologyTests1\bin\Debug\cryptologyTests1.dll
+C:\Users\WellDone\Source\Repos\PMK22_cryptology\Andriy_Hrytsko\cryptology\cryptologyTests1\bin\Debug\cryptologyTests1.pdb
+C:\Users\WellDone\Source\Repos\PMK22_cryptology\Andriy_Hrytsko\cryptology\cryptologyTests1\bin\Debug\cryptology.exe
+C:\Users\WellDone\Source\Repos\PMK22_cryptology\Andriy_Hrytsko\cryptology\cryptologyTests1\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\WellDone\Source\Repos\PMK22_cryptology\Andriy_Hrytsko\cryptology\cryptologyTests1\bin\Debug\cryptology.pdb
+C:\Users\WellDone\Source\Repos\PMK22_cryptology\Andriy_Hrytsko\cryptology\cryptologyTests1\bin\Debug\cryptology.exe.config
+C:\Users\WellDone\Source\Repos\PMK22_cryptology\Andriy_Hrytsko\cryptology\cryptologyTests1\obj\Debug\cryptolo.B46E1D05.Up2Date

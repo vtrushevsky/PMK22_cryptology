@@ -1,0 +1,28 @@
+C:\Users\WellDone\Source\Repos\PMK22_cryptology\Andriy_Hrytsko\cryptology\cryptology\input.txt
+C:\Users\WellDone\Source\Repos\PMK22_cryptology\Andriy_Hrytsko\cryptology\cryptology\encrypted.txt
+C:\Users\WellDone\Source\Repos\PMK22_cryptology\Andriy_Hrytsko\cryptology\cryptology\key.txt
+C:\Users\WellDone\Downloads\Telegram Desktop\non_ecryptr5mb.txt
+
+
+            //int size = keyGrid.GetLength(0);
+            //string encryptedWord = "";
+            //for (int rotation = 0; rotation < 4; rotation++)
+            //{
+            //    for (int i = 0; i < size; i++)
+            //    {
+            //        for (int j = 0; j < size; j++)
+            //        {
+            //            if (keyGrid[i, j])
+            //            {
+            //                int index = (i + j * size + rotation * size * size) % word.Length;
+            //                encryptedWord += word[index];
+            //            }
+            //            else
+            //            {
+            //                encryptedWord += ' ';
+            //            }
+            //        }
+            //    }
+            //}
+
+            ///return encryptedWord;

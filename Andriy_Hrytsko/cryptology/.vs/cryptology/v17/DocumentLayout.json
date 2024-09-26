@@ -1,0 +1,175 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Visual studio\\\u043F\u0440\u043E\u0435\u043A\u0442\u0438\\cryptology\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{66171BB4-CB54-4B30-AAFC-899672D2088A}|cryptology\\cryptology.csproj|d:\\visual studio\\\u043F\u0440\u043E\u0435\u043A\u0442\u0438\\cryptology\\cryptology\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66171BB4-CB54-4B30-AAFC-899672D2088A}|cryptology\\cryptology.csproj|solutionrelative:cryptology\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66171BB4-CB54-4B30-AAFC-899672D2088A}|cryptology\\cryptology.csproj|d:\\visual studio\\\u043F\u0440\u043E\u0435\u043A\u0442\u0438\\cryptology\\cryptology\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66171BB4-CB54-4B30-AAFC-899672D2088A}|cryptology\\cryptology.csproj|solutionrelative:cryptology\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66171BB4-CB54-4B30-AAFC-899672D2088A}|cryptology\\cryptology.csproj|d:\\visual studio\\\u043F\u0440\u043E\u0435\u043A\u0442\u0438\\cryptology\\cryptology\\cesar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{66171BB4-CB54-4B30-AAFC-899672D2088A}|cryptology\\cryptology.csproj|solutionrelative:cryptology\\cesar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66171BB4-CB54-4B30-AAFC-899672D2088A}|cryptology\\cryptology.csproj|d:\\visual studio\\\u043F\u0440\u043E\u0435\u043A\u0442\u0438\\cryptology\\cryptology\\cesar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66171BB4-CB54-4B30-AAFC-899672D2088A}|cryptology\\cryptology.csproj|solutionrelative:cryptology\\cesar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66171BB4-CB54-4B30-AAFC-899672D2088A}|cryptology\\cryptology.csproj|d:\\visual studio\\\u043F\u0440\u043E\u0435\u043A\u0442\u0438\\cryptology\\cryptology\\encrypted.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{66171BB4-CB54-4B30-AAFC-899672D2088A}|cryptology\\cryptology.csproj|solutionrelative:cryptology\\encrypted.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66171BB4-CB54-4B30-AAFC-899672D2088A}|cryptology\\cryptology.csproj|D:\\Visual studio\\\u043F\u0440\u043E\u0435\u043A\u0442\u0438\\cryptology\\cryptology\\input.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{66171BB4-CB54-4B30-AAFC-899672D2088A}|cryptology\\cryptology.csproj|solutionrelative:cryptology\\input.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66171BB4-CB54-4B30-AAFC-899672D2088A}|cryptology\\cryptology.csproj|D:\\Visual studio\\\u043F\u0440\u043E\u0435\u043A\u0442\u0438\\cryptology\\cryptology\\path.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{66171BB4-CB54-4B30-AAFC-899672D2088A}|cryptology\\cryptology.csproj|solutionrelative:cryptology\\path.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66171BB4-CB54-4B30-AAFC-899672D2088A}|cryptology\\cryptology.csproj|d:\\visual studio\\\u043F\u0440\u043E\u0435\u043A\u0442\u0438\\cryptology\\cryptology\\railfance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66171BB4-CB54-4B30-AAFC-899672D2088A}|cryptology\\cryptology.csproj|solutionrelative:cryptology\\railfance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66171BB4-CB54-4B30-AAFC-899672D2088A}|cryptology\\cryptology.csproj|d:\\visual studio\\\u043F\u0440\u043E\u0435\u043A\u0442\u0438\\cryptology\\cryptology\\railfance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{66171BB4-CB54-4B30-AAFC-899672D2088A}|cryptology\\cryptology.csproj|solutionrelative:cryptology\\railfance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "encrypted.txt",
+              "DocumentMoniker": "D:\\Visual studio\\\u043F\u0440\u043E\u0435\u043A\u0442\u0438\\cryptology\\cryptology\\encrypted.txt",
+              "RelativeDocumentMoniker": "cryptology\\encrypted.txt",
+              "ToolTip": "D:\\Visual studio\\\u043F\u0440\u043E\u0435\u043A\u0442\u0438\\cryptology\\cryptology\\encrypted.txt",
+              "RelativeToolTip": "cryptology\\encrypted.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-03-21T17:03:11.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "railfance.cs",
+              "DocumentMoniker": "D:\\Visual studio\\\u043F\u0440\u043E\u0435\u043A\u0442\u0438\\cryptology\\cryptology\\railfance.cs",
+              "RelativeDocumentMoniker": "cryptology\\railfance.cs",
+              "ToolTip": "D:\\Visual studio\\\u043F\u0440\u043E\u0435\u043A\u0442\u0438\\cryptology\\cryptology\\railfance.cs",
+              "RelativeToolTip": "cryptology\\railfance.cs",
+              "ViewState": "AQIAAGMAAAAAAAAAAAAvwDMBAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T16:57:23.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "cesar.cs",
+              "DocumentMoniker": "D:\\Visual studio\\\u043F\u0440\u043E\u0435\u043A\u0442\u0438\\cryptology\\cryptology\\cesar.cs",
+              "RelativeDocumentMoniker": "cryptology\\cesar.cs",
+              "ToolTip": "D:\\Visual studio\\\u043F\u0440\u043E\u0435\u043A\u0442\u0438\\cryptology\\cryptology\\cesar.cs",
+              "RelativeToolTip": "cryptology\\cesar.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T15:59:27.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "railfance.cs [Design]",
+              "DocumentMoniker": "D:\\Visual studio\\\u043F\u0440\u043E\u0435\u043A\u0442\u0438\\cryptology\\cryptology\\railfance.cs",
+              "RelativeDocumentMoniker": "cryptology\\railfance.cs",
+              "ToolTip": "D:\\Visual studio\\\u043F\u0440\u043E\u0435\u043A\u0442\u0438\\cryptology\\cryptology\\railfance.cs [Design]",
+              "RelativeToolTip": "cryptology\\railfance.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T16:57:20.714Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "mainMenu.cs",
+              "DocumentMoniker": "D:\\Visual studio\\\u043F\u0440\u043E\u0435\u043A\u0442\u0438\\cryptology\\cryptology\\mainMenu.cs",
+              "RelativeDocumentMoniker": "cryptology\\mainMenu.cs",
+              "ToolTip": "D:\\Visual studio\\\u043F\u0440\u043E\u0435\u043A\u0442\u0438\\cryptology\\cryptology\\mainMenu.cs",
+              "RelativeToolTip": "cryptology\\mainMenu.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T16:18:58.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Visual studio\\\u043F\u0440\u043E\u0435\u043A\u0442\u0438\\cryptology\\cryptology\\Program.cs",
+              "RelativeDocumentMoniker": "cryptology\\Program.cs",
+              "ToolTip": "D:\\Visual studio\\\u043F\u0440\u043E\u0435\u043A\u0442\u0438\\cryptology\\cryptology\\Program.cs*",
+              "RelativeToolTip": "cryptology\\Program.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T16:05:58.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "cesar.cs [Design]",
+              "DocumentMoniker": "D:\\Visual studio\\\u043F\u0440\u043E\u0435\u043A\u0442\u0438\\cryptology\\cryptology\\cesar.cs",
+              "RelativeDocumentMoniker": "cryptology\\cesar.cs",
+              "ToolTip": "D:\\Visual studio\\\u043F\u0440\u043E\u0435\u043A\u0442\u0438\\cryptology\\cryptology\\cesar.cs [Design]",
+              "RelativeToolTip": "cryptology\\cesar.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T15:50:39.391Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "path.txt",
+              "DocumentMoniker": "D:\\Visual studio\\\u043F\u0440\u043E\u0435\u043A\u0442\u0438\\cryptology\\cryptology\\path.txt",
+              "RelativeDocumentMoniker": "cryptology\\path.txt",
+              "ToolTip": "D:\\Visual studio\\\u043F\u0440\u043E\u0435\u043A\u0442\u0438\\cryptology\\cryptology\\path.txt",
+              "RelativeToolTip": "cryptology\\path.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-03-03T11:46:45.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "input.txt",
+              "DocumentMoniker": "D:\\Visual studio\\\u043F\u0440\u043E\u0435\u043A\u0442\u0438\\cryptology\\cryptology\\input.txt",
+              "RelativeDocumentMoniker": "cryptology\\input.txt",
+              "ToolTip": "D:\\Visual studio\\\u043F\u0440\u043E\u0435\u043A\u0442\u0438\\cryptology\\cryptology\\input.txt",
+              "RelativeToolTip": "cryptology\\input.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-02-29T17:31:27.457Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
