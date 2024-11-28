@@ -1,0 +1,14 @@
+D:\cryptology\shifting\bin\Debug\net8.0\shifting.exe
+D:\cryptology\shifting\bin\Debug\net8.0\shifting.deps.json
+D:\cryptology\shifting\bin\Debug\net8.0\shifting.runtimeconfig.json
+D:\cryptology\shifting\bin\Debug\net8.0\shifting.dll
+D:\cryptology\shifting\bin\Debug\net8.0\shifting.pdb
+D:\cryptology\shifting\obj\Debug\net8.0\shifting.GeneratedMSBuildEditorConfig.editorconfig
+D:\cryptology\shifting\obj\Debug\net8.0\shifting.AssemblyInfoInputs.cache
+D:\cryptology\shifting\obj\Debug\net8.0\shifting.AssemblyInfo.cs
+D:\cryptology\shifting\obj\Debug\net8.0\shifting.csproj.CoreCompileInputs.cache
+D:\cryptology\shifting\obj\Debug\net8.0\shifting.dll
+D:\cryptology\shifting\obj\Debug\net8.0\refint\shifting.dll
+D:\cryptology\shifting\obj\Debug\net8.0\shifting.pdb
+D:\cryptology\shifting\obj\Debug\net8.0\shifting.genruntimeconfig.cache
+D:\cryptology\shifting\obj\Debug\net8.0\ref\shifting.dll

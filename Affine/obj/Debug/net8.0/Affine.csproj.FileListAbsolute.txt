@@ -1,0 +1,15 @@
+D:\cryptology\PMK22_cryptology\Affine\bin\Debug\net8.0\Affine.exe
+D:\cryptology\PMK22_cryptology\Affine\bin\Debug\net8.0\Affine.deps.json
+D:\cryptology\PMK22_cryptology\Affine\bin\Debug\net8.0\Affine.runtimeconfig.json
+D:\cryptology\PMK22_cryptology\Affine\bin\Debug\net8.0\Affine.dll
+D:\cryptology\PMK22_cryptology\Affine\bin\Debug\net8.0\Affine.pdb
+D:\cryptology\PMK22_cryptology\Affine\obj\Debug\net8.0\Affine.GeneratedMSBuildEditorConfig.editorconfig
+D:\cryptology\PMK22_cryptology\Affine\obj\Debug\net8.0\Affine.AssemblyInfoInputs.cache
+D:\cryptology\PMK22_cryptology\Affine\obj\Debug\net8.0\Affine.AssemblyInfo.cs
+D:\cryptology\PMK22_cryptology\Affine\obj\Debug\net8.0\Affine.csproj.CoreCompileInputs.cache
+D:\cryptology\PMK22_cryptology\Affine\obj\Debug\net8.0\Affine.sourcelink.json
+D:\cryptology\PMK22_cryptology\Affine\obj\Debug\net8.0\Affine.dll
+D:\cryptology\PMK22_cryptology\Affine\obj\Debug\net8.0\refint\Affine.dll
+D:\cryptology\PMK22_cryptology\Affine\obj\Debug\net8.0\Affine.pdb
+D:\cryptology\PMK22_cryptology\Affine\obj\Debug\net8.0\Affine.genruntimeconfig.cache
+D:\cryptology\PMK22_cryptology\Affine\obj\Debug\net8.0\ref\Affine.dll
